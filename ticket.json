@@ -1,0 +1,2114 @@
+[{
+    "ticket": {
+      "url": "https://slack1447178842.zendesk.com/api/v2/tickets/907440.json",
+      "id": 907440,
+      "external_id": null,
+      "via": {
+        "channel": "api",
+        "source": {
+          "from": {},
+          "to": {},
+          "rel": null
+        }
+      },
+      "created_at": "2023-06-14T18:27:23Z",
+      "updated_at": "2023-06-14T21:59:53Z",
+      "type": null,
+      "subject": "Managing channels",
+      "raw_subject": "Managing channels",
+      "description": "dsfwfsfsdfdsfdsfdf",
+      "priority": null,
+      "status": "new",
+      "recipient": null,
+      "requester_id": 16532843143827,
+      "submitter_id": 16532843143827,
+      "assignee_id": null,
+      "organization_id": 5548092683,
+      "group_id": null,
+      "collaborator_ids": [],
+      "follower_ids": [],
+      "email_cc_ids": [],
+      "forum_topic_id": null,
+      "problem_id": null,
+      "has_incidents": false,
+      "is_public": true,
+      "due_at": null,
+      "tags": [
+        "app_english",
+        "binaryalert_run",
+        "english_updated",
+        "first_comment",
+        "form_web",
+        "language_english",
+        "page_3.5hr",
+        "ping_3h30m",
+        "ping_3hr",
+        "product_plus",
+        "routing_setup_permissions",
+        "show_in_help_portal",
+        "sla_check_enqueued",
+        "sub_comp_plus",
+        "support_offering_plus",
+        "t024be7ld",
+        "test_trigger",
+        "ws_role_member"
+      ],
+      "custom_fields": [
+        {
+          "id": 29452157,
+          "value": null
+        },
+        {
+          "id": 28874248,
+          "value": null
+        },
+        {
+          "id": 29440508,
+          "value": null
+        },
+        {
+          "id": 28885067,
+          "value": "comp_plus"
+        },
+        {
+          "id": 28885047,
+          "value": "T024BE7LD"
+        },
+        {
+          "id": 28884967,
+          "value": "U012CR7E5J6"
+        },
+        {
+          "id": 44428147,
+          "value": null
+        },
+        {
+          "id": 29874488,
+          "value": null
+        },
+        {
+          "id": 32223827,
+          "value": false
+        },
+        {
+          "id": 31760298,
+          "value": null
+        },
+        {
+          "id": 32205267,
+          "value": null
+        },
+        {
+          "id": 32205277,
+          "value": null
+        },
+        {
+          "id": 32208577,
+          "value": false
+        },
+        {
+          "id": 32226487,
+          "value": null
+        },
+        {
+          "id": 32307148,
+          "value": false
+        },
+        {
+          "id": 49178627,
+          "value": null
+        },
+        {
+          "id": 1500009751302,
+          "value": null
+        },
+        {
+          "id": 360044807174,
+          "value": null
+        },
+        {
+          "id": 360004237832,
+          "value": "ws_role_member"
+        },
+        {
+          "id": 1900001412105,
+          "value": null
+        },
+        {
+          "id": 360051042313,
+          "value": null
+        },
+        {
+          "id": 360000004363,
+          "value": null
+        },
+        {
+          "id": 360042789133,
+          "value": null
+        },
+        {
+          "id": 1500009752082,
+          "value": null
+        },
+        {
+          "id": 7139193953043,
+          "value": false
+        },
+        {
+          "id": 4412940799507,
+          "value": false
+        },
+        {
+          "id": 4803293082131,
+          "value": null
+        },
+        {
+          "id": 360044807194,
+          "value": null
+        },
+        {
+          "id": 1900001412125,
+          "value": null
+        },
+        {
+          "id": 1500009754142,
+          "value": false
+        },
+        {
+          "id": 360000004383,
+          "value": null
+        },
+        {
+          "id": 1500009752102,
+          "value": null
+        },
+        {
+          "id": 360044807214,
+          "value": null
+        },
+        {
+          "id": 360004253231,
+          "value": null
+        },
+        {
+          "id": 1900001412145,
+          "value": null
+        },
+        {
+          "id": 360017107513,
+          "value": null
+        },
+        {
+          "id": 25347906,
+          "value": null
+        },
+        {
+          "id": 1900001412165,
+          "value": null
+        },
+        {
+          "id": 360035492934,
+          "value": null
+        },
+        {
+          "id": 360027445574,
+          "value": null
+        },
+        {
+          "id": 360034630734,
+          "value": null
+        },
+        {
+          "id": 360034657873,
+          "value": null
+        },
+        {
+          "id": 360034409813,
+          "value": null
+        },
+        {
+          "id": 25373526,
+          "value": false
+        },
+        {
+          "id": 25347926,
+          "value": null
+        },
+        {
+          "id": 52663128,
+          "value": false
+        },
+        {
+          "id": 1500004138841,
+          "value": null
+        },
+        {
+          "id": 1900001412185,
+          "value": null
+        },
+        {
+          "id": 360023181913,
+          "value": null
+        },
+        {
+          "id": 1500009751642,
+          "value": null
+        },
+        {
+          "id": 1500003043422,
+          "value": null
+        },
+        {
+          "id": 360038257513,
+          "value": null
+        },
+        {
+          "id": 360038258793,
+          "value": null
+        },
+        {
+          "id": 360038289514,
+          "value": null
+        },
+        {
+          "id": 56577387,
+          "value": "1df73bb94cfd9319da4e798c15cb0c08"
+        },
+        {
+          "id": 360023181933,
+          "value": null
+        },
+        {
+          "id": 1500005685362,
+          "value": null
+        },
+        {
+          "id": 360031071093,
+          "value": null
+        },
+        {
+          "id": 360027411073,
+          "value": null
+        },
+        {
+          "id": 360051034753,
+          "value": null
+        },
+        {
+          "id": 1900001415045,
+          "value": null
+        },
+        {
+          "id": 360000004486,
+          "value": null
+        },
+        {
+          "id": 1500005685382,
+          "value": null
+        },
+        {
+          "id": 360044796553,
+          "value": null
+        },
+        {
+          "id": 1500004583562,
+          "value": null
+        },
+        {
+          "id": 1500009751442,
+          "value": null
+        },
+        {
+          "id": 360042828434,
+          "value": null
+        },
+        {
+          "id": 25217426,
+          "value": "language_english"
+        },
+        {
+          "id": 360027445394,
+          "value": null
+        },
+        {
+          "id": 5116229489043,
+          "value": false
+        },
+        {
+          "id": 1900002913685,
+          "value": null
+        },
+        {
+          "id": 1900001412505,
+          "value": null
+        },
+        {
+          "id": 360044796573,
+          "value": null
+        },
+        {
+          "id": 25063583,
+          "value": null
+        },
+        {
+          "id": 1500009751202,
+          "value": null
+        },
+        {
+          "id": 1500009705901,
+          "value": null
+        },
+        {
+          "id": 25367726,
+          "value": false
+        },
+        {
+          "id": 1500002745522,
+          "value": null
+        },
+        {
+          "id": 46614707,
+          "value": null
+        },
+        {
+          "id": 360048039093,
+          "value": true
+        },
+        {
+          "id": 360030025654,
+          "value": null
+        },
+        {
+          "id": 360038289334,
+          "value": false
+        },
+        {
+          "id": 1500009751222,
+          "value": null
+        },
+        {
+          "id": 360027413433,
+          "value": null
+        },
+        {
+          "id": 360051034553,
+          "value": null
+        },
+        {
+          "id": 360042828474,
+          "value": null
+        },
+        {
+          "id": 1500009705921,
+          "value": null
+        },
+        {
+          "id": 360025386693,
+          "value": "routing_setup_permissions"
+        },
+        {
+          "id": 360056125893,
+          "value": false
+        },
+        {
+          "id": 1500009708741,
+          "value": false
+        },
+        {
+          "id": 1500002745542,
+          "value": null
+        },
+        {
+          "id": 1500009751242,
+          "value": null
+        },
+        {
+          "id": 360000105163,
+          "value": null
+        },
+        {
+          "id": 360051034573,
+          "value": null
+        },
+        {
+          "id": 360042828494,
+          "value": null
+        },
+        {
+          "id": 360050064334,
+          "value": null
+        },
+        {
+          "id": 360000029903,
+          "value": null
+        },
+        {
+          "id": 25446866,
+          "value": "product_plus"
+        },
+        {
+          "id": 25343186,
+          "value": false
+        },
+        {
+          "id": 25370323,
+          "value": "tinyspeck 😻"
+        },
+        {
+          "id": 360051657173,
+          "value": null
+        },
+        {
+          "id": 360027413973,
+          "value": null
+        },
+        {
+          "id": 1500002742741,
+          "value": null
+        },
+        {
+          "id": 1500009705941,
+          "value": null
+        },
+        {
+          "id": 360040500694,
+          "value": null
+        },
+        {
+          "id": 25368023,
+          "value": "support_offering_plus"
+        },
+        {
+          "id": 360038289114,
+          "value": null
+        },
+        {
+          "id": 25348826,
+          "value": null
+        },
+        {
+          "id": 1500009751262,
+          "value": null
+        },
+        {
+          "id": 360044807134,
+          "value": null
+        },
+        {
+          "id": 360050064354,
+          "value": null
+        },
+        {
+          "id": 360000001763,
+          "value": null
+        },
+        {
+          "id": 25370343,
+          "value": null
+        },
+        {
+          "id": 360027413993,
+          "value": null
+        },
+        {
+          "id": 25368043,
+          "value": false
+        },
+        {
+          "id": 360000366827,
+          "value": null
+        },
+        {
+          "id": 1500006473201,
+          "value": null
+        },
+        {
+          "id": 360000017906,
+          "value": null
+        },
+        {
+          "id": 1500009751282,
+          "value": null
+        },
+        {
+          "id": 360044807154,
+          "value": null
+        },
+        {
+          "id": 1900001412085,
+          "value": null
+        },
+        {
+          "id": 25247223,
+          "value": null
+        }
+      ],
+      "satisfaction_rating": {
+        "score": "unoffered"
+      },
+      "sharing_agreement_ids": [],
+      "fields": [
+        {
+          "id": 29452157,
+          "value": null
+        },
+        {
+          "id": 28874248,
+          "value": null
+        },
+        {
+          "id": 29440508,
+          "value": null
+        },
+        {
+          "id": 28885067,
+          "value": "comp_plus"
+        },
+        {
+          "id": 28885047,
+          "value": "T024BE7LD"
+        },
+        {
+          "id": 28884967,
+          "value": "U012CR7E5J6"
+        },
+        {
+          "id": 44428147,
+          "value": null
+        },
+        {
+          "id": 29874488,
+          "value": null
+        },
+        {
+          "id": 32223827,
+          "value": false
+        },
+        {
+          "id": 31760298,
+          "value": null
+        },
+        {
+          "id": 32205267,
+          "value": null
+        },
+        {
+          "id": 32205277,
+          "value": null
+        },
+        {
+          "id": 32208577,
+          "value": false
+        },
+        {
+          "id": 32226487,
+          "value": null
+        },
+        {
+          "id": 32307148,
+          "value": false
+        },
+        {
+          "id": 49178627,
+          "value": null
+        },
+        {
+          "id": 1500009751302,
+          "value": null
+        },
+        {
+          "id": 360044807174,
+          "value": null
+        },
+        {
+          "id": 360004237832,
+          "value": "ws_role_member"
+        },
+        {
+          "id": 1900001412105,
+          "value": null
+        },
+        {
+          "id": 360051042313,
+          "value": null
+        },
+        {
+          "id": 360000004363,
+          "value": null
+        },
+        {
+          "id": 360042789133,
+          "value": null
+        },
+        {
+          "id": 1500009752082,
+          "value": null
+        },
+        {
+          "id": 7139193953043,
+          "value": false
+        },
+        {
+          "id": 4412940799507,
+          "value": false
+        },
+        {
+          "id": 4803293082131,
+          "value": null
+        },
+        {
+          "id": 360044807194,
+          "value": null
+        },
+        {
+          "id": 1900001412125,
+          "value": null
+        },
+        {
+          "id": 1500009754142,
+          "value": false
+        },
+        {
+          "id": 360000004383,
+          "value": null
+        },
+        {
+          "id": 1500009752102,
+          "value": null
+        },
+        {
+          "id": 360044807214,
+          "value": null
+        },
+        {
+          "id": 360004253231,
+          "value": null
+        },
+        {
+          "id": 1900001412145,
+          "value": null
+        },
+        {
+          "id": 360017107513,
+          "value": null
+        },
+        {
+          "id": 25347906,
+          "value": null
+        },
+        {
+          "id": 1900001412165,
+          "value": null
+        },
+        {
+          "id": 360035492934,
+          "value": null
+        },
+        {
+          "id": 360027445574,
+          "value": null
+        },
+        {
+          "id": 360034630734,
+          "value": null
+        },
+        {
+          "id": 360034657873,
+          "value": null
+        },
+        {
+          "id": 360034409813,
+          "value": null
+        },
+        {
+          "id": 25373526,
+          "value": false
+        },
+        {
+          "id": 25347926,
+          "value": null
+        },
+        {
+          "id": 52663128,
+          "value": false
+        },
+        {
+          "id": 1500004138841,
+          "value": null
+        },
+        {
+          "id": 1900001412185,
+          "value": null
+        },
+        {
+          "id": 360023181913,
+          "value": null
+        },
+        {
+          "id": 1500009751642,
+          "value": null
+        },
+        {
+          "id": 1500003043422,
+          "value": null
+        },
+        {
+          "id": 360038257513,
+          "value": null
+        },
+        {
+          "id": 360038258793,
+          "value": null
+        },
+        {
+          "id": 360038289514,
+          "value": null
+        },
+        {
+          "id": 56577387,
+          "value": "1df73bb94cfd9319da4e798c15cb0c08"
+        },
+        {
+          "id": 360023181933,
+          "value": null
+        },
+        {
+          "id": 1500005685362,
+          "value": null
+        },
+        {
+          "id": 360031071093,
+          "value": null
+        },
+        {
+          "id": 360027411073,
+          "value": null
+        },
+        {
+          "id": 360051034753,
+          "value": null
+        },
+        {
+          "id": 1900001415045,
+          "value": null
+        },
+        {
+          "id": 360000004486,
+          "value": null
+        },
+        {
+          "id": 1500005685382,
+          "value": null
+        },
+        {
+          "id": 360044796553,
+          "value": null
+        },
+        {
+          "id": 1500004583562,
+          "value": null
+        },
+        {
+          "id": 1500009751442,
+          "value": null
+        },
+        {
+          "id": 360042828434,
+          "value": null
+        },
+        {
+          "id": 25217426,
+          "value": "language_english"
+        },
+        {
+          "id": 360027445394,
+          "value": null
+        },
+        {
+          "id": 5116229489043,
+          "value": false
+        },
+        {
+          "id": 1900002913685,
+          "value": null
+        },
+        {
+          "id": 1900001412505,
+          "value": null
+        },
+        {
+          "id": 360044796573,
+          "value": null
+        },
+        {
+          "id": 25063583,
+          "value": null
+        },
+        {
+          "id": 1500009751202,
+          "value": null
+        },
+        {
+          "id": 1500009705901,
+          "value": null
+        },
+        {
+          "id": 25367726,
+          "value": false
+        },
+        {
+          "id": 1500002745522,
+          "value": null
+        },
+        {
+          "id": 46614707,
+          "value": null
+        },
+        {
+          "id": 360048039093,
+          "value": true
+        },
+        {
+          "id": 360030025654,
+          "value": null
+        },
+        {
+          "id": 360038289334,
+          "value": false
+        },
+        {
+          "id": 1500009751222,
+          "value": null
+        },
+        {
+          "id": 360027413433,
+          "value": null
+        },
+        {
+          "id": 360051034553,
+          "value": null
+        },
+        {
+          "id": 360042828474,
+          "value": null
+        },
+        {
+          "id": 1500009705921,
+          "value": null
+        },
+        {
+          "id": 360025386693,
+          "value": "routing_setup_permissions"
+        },
+        {
+          "id": 360056125893,
+          "value": false
+        },
+        {
+          "id": 1500009708741,
+          "value": false
+        },
+        {
+          "id": 1500002745542,
+          "value": null
+        },
+        {
+          "id": 1500009751242,
+          "value": null
+        },
+        {
+          "id": 360000105163,
+          "value": null
+        },
+        {
+          "id": 360051034573,
+          "value": null
+        },
+        {
+          "id": 360042828494,
+          "value": null
+        },
+        {
+          "id": 360050064334,
+          "value": null
+        },
+        {
+          "id": 360000029903,
+          "value": null
+        },
+        {
+          "id": 25446866,
+          "value": "product_plus"
+        },
+        {
+          "id": 25343186,
+          "value": false
+        },
+        {
+          "id": 25370323,
+          "value": "tinyspeck 😻"
+        },
+        {
+          "id": 360051657173,
+          "value": null
+        },
+        {
+          "id": 360027413973,
+          "value": null
+        },
+        {
+          "id": 1500002742741,
+          "value": null
+        },
+        {
+          "id": 1500009705941,
+          "value": null
+        },
+        {
+          "id": 360040500694,
+          "value": null
+        },
+        {
+          "id": 25368023,
+          "value": "support_offering_plus"
+        },
+        {
+          "id": 360038289114,
+          "value": null
+        },
+        {
+          "id": 25348826,
+          "value": null
+        },
+        {
+          "id": 1500009751262,
+          "value": null
+        },
+        {
+          "id": 360044807134,
+          "value": null
+        },
+        {
+          "id": 360050064354,
+          "value": null
+        },
+        {
+          "id": 360000001763,
+          "value": null
+        },
+        {
+          "id": 25370343,
+          "value": null
+        },
+        {
+          "id": 360027413993,
+          "value": null
+        },
+        {
+          "id": 25368043,
+          "value": false
+        },
+        {
+          "id": 360000366827,
+          "value": null
+        },
+        {
+          "id": 1500006473201,
+          "value": null
+        },
+        {
+          "id": 360000017906,
+          "value": null
+        },
+        {
+          "id": 1500009751282,
+          "value": null
+        },
+        {
+          "id": 360044807154,
+          "value": null
+        },
+        {
+          "id": 1900001412085,
+          "value": null
+        },
+        {
+          "id": 25247223,
+          "value": null
+        }
+      ],
+      "followup_ids": [],
+      "ticket_form_id": 218418,
+      "brand_id": 667007,
+      "allow_channelback": false,
+      "allow_attachments": true,
+      "from_messaging_channel": false
+    }
+  },
+  {
+    "ticket": {
+      "url": "https://slack1447178842.zendesk.com/api/v2/tickets/909797.json",
+      "id": 909797,
+      "external_id": null,
+      "via": {
+        "channel": "api",
+        "source": {
+          "from": {},
+          "to": {},
+          "rel": null
+        }
+      },
+      "created_at": "2023-07-21T19:26:09Z",
+      "updated_at": "2023-07-25T21:01:20Z",
+      "type": "problem",
+      "subject": "test subject",
+      "raw_subject": "test subject",
+      "description": "test body",
+      "priority": "high",
+      "status": "open",
+      "recipient": null,
+      "requester_id": 18307478066707,
+      "submitter_id": 18307478066707,
+      "assignee_id": 18228340485011,
+      "organization_id": 1306148907,
+      "group_id": 27517657,
+      "collaborator_ids": [],
+      "follower_ids": [],
+      "email_cc_ids": [],
+      "forum_topic_id": null,
+      "problem_id": null,
+      "has_incidents": false,
+      "is_public": true,
+      "due_at": null,
+      "tags": [
+        "api",
+        "binaryalert_run",
+        "english_updated",
+        "first_comment",
+        "language_english",
+        "platform_custom_integrations",
+        "platform_topic",
+        "problem",
+        "product_grid",
+        "routing_platform_dev_support",
+        "sla_check_enqueued",
+        "test_trigger",
+        "us_west_coast"
+      ],
+      "custom_fields": [
+        {
+          "id": 29452157,
+          "value": "problem"
+        },
+        {
+          "id": 28874248,
+          "value": "platform_custom_integrations"
+        },
+        {
+          "id": 29440508,
+          "value": null
+        },
+        {
+          "id": 28885067,
+          "value": null
+        },
+        {
+          "id": 28885047,
+          "value": "T12345678"
+        },
+        {
+          "id": 28884967,
+          "value": "U12345678"
+        },
+        {
+          "id": 44428147,
+          "value": "E12345678"
+        },
+        {
+          "id": 29874488,
+          "value": "platform_topic"
+        },
+        {
+          "id": 32223827,
+          "value": false
+        },
+        {
+          "id": 31760298,
+          "value": null
+        },
+        {
+          "id": 32205267,
+          "value": null
+        },
+        {
+          "id": 32205277,
+          "value": null
+        },
+        {
+          "id": 32208577,
+          "value": false
+        },
+        {
+          "id": 32226487,
+          "value": null
+        },
+        {
+          "id": 32307148,
+          "value": false
+        },
+        {
+          "id": 49178627,
+          "value": null
+        },
+        {
+          "id": 1500009751302,
+          "value": null
+        },
+        {
+          "id": 360044807174,
+          "value": null
+        },
+        {
+          "id": 360004237832,
+          "value": null
+        },
+        {
+          "id": 1900001412105,
+          "value": null
+        },
+        {
+          "id": 360051042313,
+          "value": null
+        },
+        {
+          "id": 360000004363,
+          "value": null
+        },
+        {
+          "id": 360042789133,
+          "value": null
+        },
+        {
+          "id": 1500009752082,
+          "value": null
+        },
+        {
+          "id": 18448068847635,
+          "value": null
+        },
+        {
+          "id": 18448042183955,
+          "value": null
+        },
+        {
+          "id": 7139193953043,
+          "value": false
+        },
+        {
+          "id": 4412940799507,
+          "value": false
+        },
+        {
+          "id": 4803293082131,
+          "value": null
+        },
+        {
+          "id": 360044807194,
+          "value": null
+        },
+        {
+          "id": 1900001412125,
+          "value": null
+        },
+        {
+          "id": 1500009754142,
+          "value": false
+        },
+        {
+          "id": 360000004383,
+          "value": null
+        },
+        {
+          "id": 1500009752102,
+          "value": null
+        },
+        {
+          "id": 360044807214,
+          "value": null
+        },
+        {
+          "id": 360004253231,
+          "value": null
+        },
+        {
+          "id": 1900001412145,
+          "value": null
+        },
+        {
+          "id": 360017107513,
+          "value": null
+        },
+        {
+          "id": 25347906,
+          "value": null
+        },
+        {
+          "id": 1900001412165,
+          "value": null
+        },
+        {
+          "id": 360035492934,
+          "value": null
+        },
+        {
+          "id": 360027445574,
+          "value": null
+        },
+        {
+          "id": 360034630734,
+          "value": null
+        },
+        {
+          "id": 360034657873,
+          "value": null
+        },
+        {
+          "id": 360034409813,
+          "value": null
+        },
+        {
+          "id": 25373526,
+          "value": false
+        },
+        {
+          "id": 25347926,
+          "value": null
+        },
+        {
+          "id": 52663128,
+          "value": false
+        },
+        {
+          "id": 1500004138841,
+          "value": null
+        },
+        {
+          "id": 1900001412185,
+          "value": null
+        },
+        {
+          "id": 360023181913,
+          "value": null
+        },
+        {
+          "id": 1500009751642,
+          "value": null
+        },
+        {
+          "id": 1500003043422,
+          "value": null
+        },
+        {
+          "id": 360038257513,
+          "value": null
+        },
+        {
+          "id": 360038258793,
+          "value": null
+        },
+        {
+          "id": 360038289514,
+          "value": null
+        },
+        {
+          "id": 56577387,
+          "value": null
+        },
+        {
+          "id": 360023181933,
+          "value": null
+        },
+        {
+          "id": 1500005685362,
+          "value": null
+        },
+        {
+          "id": 360031071093,
+          "value": null
+        },
+        {
+          "id": 360027411073,
+          "value": null
+        },
+        {
+          "id": 360051034753,
+          "value": null
+        },
+        {
+          "id": 1900001415045,
+          "value": null
+        },
+        {
+          "id": 360000004486,
+          "value": null
+        },
+        {
+          "id": 1500005685382,
+          "value": null
+        },
+        {
+          "id": 360044796553,
+          "value": null
+        },
+        {
+          "id": 1500004583562,
+          "value": null
+        },
+        {
+          "id": 1500009751442,
+          "value": null
+        },
+        {
+          "id": 360042828434,
+          "value": null
+        },
+        {
+          "id": 25217426,
+          "value": "language_english"
+        },
+        {
+          "id": 360027445394,
+          "value": null
+        },
+        {
+          "id": 18448019621779,
+          "value": null
+        },
+        {
+          "id": 5116229489043,
+          "value": false
+        },
+        {
+          "id": 1900002913685,
+          "value": null
+        },
+        {
+          "id": 1900001412505,
+          "value": null
+        },
+        {
+          "id": 360044796573,
+          "value": null
+        },
+        {
+          "id": 25063583,
+          "value": null
+        },
+        {
+          "id": 1500009751202,
+          "value": null
+        },
+        {
+          "id": 1500009705901,
+          "value": null
+        },
+        {
+          "id": 25367726,
+          "value": false
+        },
+        {
+          "id": 1500002745522,
+          "value": null
+        },
+        {
+          "id": 46614707,
+          "value": null
+        },
+        {
+          "id": 360048039093,
+          "value": false
+        },
+        {
+          "id": 360030025654,
+          "value": null
+        },
+        {
+          "id": 360038289334,
+          "value": false
+        },
+        {
+          "id": 1500009751222,
+          "value": null
+        },
+        {
+          "id": 360027413433,
+          "value": null
+        },
+        {
+          "id": 360051034553,
+          "value": null
+        },
+        {
+          "id": 360042828474,
+          "value": null
+        },
+        {
+          "id": 1500009705921,
+          "value": null
+        },
+        {
+          "id": 360025386693,
+          "value": "routing_platform_dev_support"
+        },
+        {
+          "id": 360056125893,
+          "value": false
+        },
+        {
+          "id": 1500009708741,
+          "value": false
+        },
+        {
+          "id": 1500002745542,
+          "value": null
+        },
+        {
+          "id": 1500009751242,
+          "value": null
+        },
+        {
+          "id": 360000105163,
+          "value": null
+        },
+        {
+          "id": 360051034573,
+          "value": null
+        },
+        {
+          "id": 360042828494,
+          "value": null
+        },
+        {
+          "id": 360050064334,
+          "value": null
+        },
+        {
+          "id": 360000029903,
+          "value": null
+        },
+        {
+          "id": 25446866,
+          "value": "product_grid"
+        },
+        {
+          "id": 25343186,
+          "value": false
+        },
+        {
+          "id": 25370323,
+          "value": null
+        },
+        {
+          "id": 360051657173,
+          "value": null
+        },
+        {
+          "id": 360027413973,
+          "value": null
+        },
+        {
+          "id": 1500002742741,
+          "value": null
+        },
+        {
+          "id": 1500009705941,
+          "value": null
+        },
+        {
+          "id": 360040500694,
+          "value": null
+        },
+        {
+          "id": 25368023,
+          "value": null
+        },
+        {
+          "id": 360038289114,
+          "value": null
+        },
+        {
+          "id": 25348826,
+          "value": null
+        },
+        {
+          "id": 1500009751262,
+          "value": null
+        },
+        {
+          "id": 360044807134,
+          "value": null
+        },
+        {
+          "id": 360050064354,
+          "value": null
+        },
+        {
+          "id": 360000001763,
+          "value": "api"
+        },
+        {
+          "id": 25370343,
+          "value": null
+        },
+        {
+          "id": 360027413993,
+          "value": null
+        },
+        {
+          "id": 25368043,
+          "value": false
+        },
+        {
+          "id": 360000366827,
+          "value": null
+        },
+        {
+          "id": 1500006473201,
+          "value": null
+        },
+        {
+          "id": 360000017906,
+          "value": null
+        },
+        {
+          "id": 1500009751282,
+          "value": null
+        },
+        {
+          "id": 360044807154,
+          "value": null
+        },
+        {
+          "id": 1900001412085,
+          "value": null
+        },
+        {
+          "id": 25247223,
+          "value": "2023-07-25"
+        }
+      ],
+      "satisfaction_rating": {
+        "score": "unoffered"
+      },
+      "sharing_agreement_ids": [],
+      "fields": [
+        {
+          "id": 29452157,
+          "value": "problem"
+        },
+        {
+          "id": 28874248,
+          "value": "platform_custom_integrations"
+        },
+        {
+          "id": 29440508,
+          "value": null
+        },
+        {
+          "id": 28885067,
+          "value": null
+        },
+        {
+          "id": 28885047,
+          "value": "T12345678"
+        },
+        {
+          "id": 28884967,
+          "value": "U12345678"
+        },
+        {
+          "id": 44428147,
+          "value": "E12345678"
+        },
+        {
+          "id": 29874488,
+          "value": "platform_topic"
+        },
+        {
+          "id": 32223827,
+          "value": false
+        },
+        {
+          "id": 31760298,
+          "value": null
+        },
+        {
+          "id": 32205267,
+          "value": null
+        },
+        {
+          "id": 32205277,
+          "value": null
+        },
+        {
+          "id": 32208577,
+          "value": false
+        },
+        {
+          "id": 32226487,
+          "value": null
+        },
+        {
+          "id": 32307148,
+          "value": false
+        },
+        {
+          "id": 49178627,
+          "value": null
+        },
+        {
+          "id": 1500009751302,
+          "value": null
+        },
+        {
+          "id": 360044807174,
+          "value": null
+        },
+        {
+          "id": 360004237832,
+          "value": null
+        },
+        {
+          "id": 1900001412105,
+          "value": null
+        },
+        {
+          "id": 360051042313,
+          "value": null
+        },
+        {
+          "id": 360000004363,
+          "value": null
+        },
+        {
+          "id": 360042789133,
+          "value": null
+        },
+        {
+          "id": 1500009752082,
+          "value": null
+        },
+        {
+          "id": 18448068847635,
+          "value": null
+        },
+        {
+          "id": 18448042183955,
+          "value": null
+        },
+        {
+          "id": 7139193953043,
+          "value": false
+        },
+        {
+          "id": 4412940799507,
+          "value": false
+        },
+        {
+          "id": 4803293082131,
+          "value": null
+        },
+        {
+          "id": 360044807194,
+          "value": null
+        },
+        {
+          "id": 1900001412125,
+          "value": null
+        },
+        {
+          "id": 1500009754142,
+          "value": false
+        },
+        {
+          "id": 360000004383,
+          "value": null
+        },
+        {
+          "id": 1500009752102,
+          "value": null
+        },
+        {
+          "id": 360044807214,
+          "value": null
+        },
+        {
+          "id": 360004253231,
+          "value": null
+        },
+        {
+          "id": 1900001412145,
+          "value": null
+        },
+        {
+          "id": 360017107513,
+          "value": null
+        },
+        {
+          "id": 25347906,
+          "value": null
+        },
+        {
+          "id": 1900001412165,
+          "value": null
+        },
+        {
+          "id": 360035492934,
+          "value": null
+        },
+        {
+          "id": 360027445574,
+          "value": null
+        },
+        {
+          "id": 360034630734,
+          "value": null
+        },
+        {
+          "id": 360034657873,
+          "value": null
+        },
+        {
+          "id": 360034409813,
+          "value": null
+        },
+        {
+          "id": 25373526,
+          "value": false
+        },
+        {
+          "id": 25347926,
+          "value": null
+        },
+        {
+          "id": 52663128,
+          "value": false
+        },
+        {
+          "id": 1500004138841,
+          "value": null
+        },
+        {
+          "id": 1900001412185,
+          "value": null
+        },
+        {
+          "id": 360023181913,
+          "value": null
+        },
+        {
+          "id": 1500009751642,
+          "value": null
+        },
+        {
+          "id": 1500003043422,
+          "value": null
+        },
+        {
+          "id": 360038257513,
+          "value": null
+        },
+        {
+          "id": 360038258793,
+          "value": null
+        },
+        {
+          "id": 360038289514,
+          "value": null
+        },
+        {
+          "id": 56577387,
+          "value": null
+        },
+        {
+          "id": 360023181933,
+          "value": null
+        },
+        {
+          "id": 1500005685362,
+          "value": null
+        },
+        {
+          "id": 360031071093,
+          "value": null
+        },
+        {
+          "id": 360027411073,
+          "value": null
+        },
+        {
+          "id": 360051034753,
+          "value": null
+        },
+        {
+          "id": 1900001415045,
+          "value": null
+        },
+        {
+          "id": 360000004486,
+          "value": null
+        },
+        {
+          "id": 1500005685382,
+          "value": null
+        },
+        {
+          "id": 360044796553,
+          "value": null
+        },
+        {
+          "id": 1500004583562,
+          "value": null
+        },
+        {
+          "id": 1500009751442,
+          "value": null
+        },
+        {
+          "id": 360042828434,
+          "value": null
+        },
+        {
+          "id": 25217426,
+          "value": "language_english"
+        },
+        {
+          "id": 360027445394,
+          "value": null
+        },
+        {
+          "id": 18448019621779,
+          "value": null
+        },
+        {
+          "id": 5116229489043,
+          "value": false
+        },
+        {
+          "id": 1900002913685,
+          "value": null
+        },
+        {
+          "id": 1900001412505,
+          "value": null
+        },
+        {
+          "id": 360044796573,
+          "value": null
+        },
+        {
+          "id": 25063583,
+          "value": null
+        },
+        {
+          "id": 1500009751202,
+          "value": null
+        },
+        {
+          "id": 1500009705901,
+          "value": null
+        },
+        {
+          "id": 25367726,
+          "value": false
+        },
+        {
+          "id": 1500002745522,
+          "value": null
+        },
+        {
+          "id": 46614707,
+          "value": null
+        },
+        {
+          "id": 360048039093,
+          "value": false
+        },
+        {
+          "id": 360030025654,
+          "value": null
+        },
+        {
+          "id": 360038289334,
+          "value": false
+        },
+        {
+          "id": 1500009751222,
+          "value": null
+        },
+        {
+          "id": 360027413433,
+          "value": null
+        },
+        {
+          "id": 360051034553,
+          "value": null
+        },
+        {
+          "id": 360042828474,
+          "value": null
+        },
+        {
+          "id": 1500009705921,
+          "value": null
+        },
+        {
+          "id": 360025386693,
+          "value": "routing_platform_dev_support"
+        },
+        {
+          "id": 360056125893,
+          "value": false
+        },
+        {
+          "id": 1500009708741,
+          "value": false
+        },
+        {
+          "id": 1500002745542,
+          "value": null
+        },
+        {
+          "id": 1500009751242,
+          "value": null
+        },
+        {
+          "id": 360000105163,
+          "value": null
+        },
+        {
+          "id": 360051034573,
+          "value": null
+        },
+        {
+          "id": 360042828494,
+          "value": null
+        },
+        {
+          "id": 360050064334,
+          "value": null
+        },
+        {
+          "id": 360000029903,
+          "value": null
+        },
+        {
+          "id": 25446866,
+          "value": "product_grid"
+        },
+        {
+          "id": 25343186,
+          "value": false
+        },
+        {
+          "id": 25370323,
+          "value": null
+        },
+        {
+          "id": 360051657173,
+          "value": null
+        },
+        {
+          "id": 360027413973,
+          "value": null
+        },
+        {
+          "id": 1500002742741,
+          "value": null
+        },
+        {
+          "id": 1500009705941,
+          "value": null
+        },
+        {
+          "id": 360040500694,
+          "value": null
+        },
+        {
+          "id": 25368023,
+          "value": null
+        },
+        {
+          "id": 360038289114,
+          "value": null
+        },
+        {
+          "id": 25348826,
+          "value": null
+        },
+        {
+          "id": 1500009751262,
+          "value": null
+        },
+        {
+          "id": 360044807134,
+          "value": null
+        },
+        {
+          "id": 360050064354,
+          "value": null
+        },
+        {
+          "id": 360000001763,
+          "value": "api"
+        },
+        {
+          "id": 25370343,
+          "value": null
+        },
+        {
+          "id": 360027413993,
+          "value": null
+        },
+        {
+          "id": 25368043,
+          "value": false
+        },
+        {
+          "id": 360000366827,
+          "value": null
+        },
+        {
+          "id": 1500006473201,
+          "value": null
+        },
+        {
+          "id": 360000017906,
+          "value": null
+        },
+        {
+          "id": 1500009751282,
+          "value": null
+        },
+        {
+          "id": 360044807154,
+          "value": null
+        },
+        {
+          "id": 1900001412085,
+          "value": null
+        },
+        {
+          "id": 25247223,
+          "value": "2023-07-25"
+        }
+      ],
+      "followup_ids": [],
+      "ticket_form_id": 218418,
+      "brand_id": 667007,
+      "allow_channelback": false,
+      "allow_attachments": true,
+      "from_messaging_channel": false
+    }
+  }
+]

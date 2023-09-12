@@ -1,0 +1,215 @@
+value,tag,default
+"ACCESS::App performance (memory, slowness, etc)",about_app_performance,false
+ACCESS::Client Deprecation,about_client_deprecation,false
+ACCESS::Client Installation,about_client_installation,false
+ACCESS::Connectivity,about_connectivity,false
+ACCESS::Crash,about_crash,false
+ACCESS::Distributed Installations,about_distributed_installations,false
+ADMIN:: Managing Channels,about_managing_channels,false
+ADMIN::Admin APIs,platform_api_admin_api,false
+ADMIN::Analytics,about_admin_statistics,false
+ADMIN::Compliance,about_compliance,false
+ADMIN::Custom Profile Fields,about_customprofile,false
+ADMIN::Data Exports,about_admin_troubleshooting_exports,false
+ADMIN::Data Imports,about_admin_data_imports,false
+ADMIN::Data Retention,about_data_retention,false
+ADMIN::Discoverable Workspaces,about_enterprise_discoverable_workspaces,false
+ADMIN::DLP and eDiscovery API,about_admin_dlp_and_ediscovery,false
+ADMIN::Enterprise Key Management (EKM),about_ekm,false
+ADMIN::Grid Email Domain Claiming,about_enterprise_domain_claiming,false
+ADMIN::Grid Multi-Workspace Channels,about_enterprise_shared_channels,false
+ADMIN::Grid Org Management,about_enterprise_org_dashboard,false
+ADMIN::Guest Accounts,about_restricted_accounts,false
+ADMIN::International Data Residency (IDR),about_int_data_residency,false
+ADMIN::Managing Team Members,about_managing_team_members,false
+ADMIN::Mobile Security,about_enterprise_mobile_security,false
+ADMIN::Moving channels,about_moving_channels,false
+ADMIN::RCA Request,about_rca_request,false
+ADMIN::Slack Connect,about_shared_channels_cross_team_dms,false
+ADMIN::User Groups,about_usergroups,false
+ADMIN::Workspace Settings and Permissions,about_team_settings_and_permissions,false
+ADMIN::Workspace URL Request,about_domain_request,false
+EVALUATORS::Atlas purchase request,about_rimeto,false
+EVALUATORS::Compliance & HIPAA,about_compliance_hipaa,false
+EVALUATORS::Discounts,about_discount_requests,false
+EVALUATORS::Education,about_education_only,false
+EVALUATORS::Free plan users,about_free_plan_users,false
+EVALUATORS::Nonprofits,about_nonprofits_only,false
+EVALUATORS::Plan Advice,about_plan_advice,false
+EVALUATORS::Reseller/Partnership,about_reseller_partnership,false
+"EVALUATORS::Resources, Training and Advocacy Requests",about_resource_training_request,false
+EVALUATORS::Trials,about_trial_requests,false
+EVALUATORS::Understanding Costs,about_understanding_costs,false
+EVALUATORS::What is Slack?,about_what_is_slack,false
+FILES::Audio/Video Clips,about_audio_video_clips,false
+FILES::Files,about_files,false
+FILES::Posts,about_posts,false
+FILES::Snippets,about_snippets,false
+IDENTITY::Atlas,about_atlas,false
+IDENTITY::Audit Log API,about_platform_api_audit_log_api,false
+IDENTITY::Configuring or Switching SSO,about_sso_config,false
+IDENTITY::Custom SCIM Attributes,about_scim_attributes,false
+IDENTITY::Google Auth,about_google_auth,false
+IDENTITY::Profile Syncing & Rebinding,about_syncing,false
+IDENTITY::Provisioning Users & Groups,about_provisioning_users,false
+IDENTITY::SSO Preferences & Settings,about_sso_prefs,false
+IDENTITY::SSO Sign-in,about_sso_login,false
+IDENTITY::Workspace Migration,about_enterprise_team_migration,false
+LOGIN::2FA,about_2fa,false
+LOGIN::Accidental workspace creation,about_accidental_team,false
+LOGIN::Credentials,about_credentials,false
+LOGIN::Email delivery,about_bouncing,false
+"LOGIN::Invitations ",about_invitations,false
+LOGIN::Invite limit,invite_limit,false
+LOGIN::Joining a workspace,about_joining_a_team,false
+LOGIN::Login UI/UX,about_login_ui_ux,false
+LOGIN::Workspace Creation,about_workspace_creation,false
+MARKETING::Marketing/PR/Ads,about_marketing_pr_ads,false
+MARKETING::Slack Certification,about_slack_certification,false
+MARKETING::Slack Foundry,about_slacku,false
+"MARKETING::Swag ",about_swag,false
+OTHER::Miscellaneous,about_miscellaneous,false
+OTHER::Not intended for Slack,about_not_intended_for_slack,false
+OTHER::Spam or bot-generated ticket,spam,false
+OTHER::User solved it before About was selected,about_unspecified,false
+PAGE POLICY::Policy (pages Policy team),escalation_policy,false
+PAGE POLICY::Possible Data Breach (pages Policy team),escalation_data_breach,false
+PLATFORM::API::API - Other,about_api,false
+PLATFORM::API::API Message Formatting,about_api_message_formatting,false
+PLATFORM::API::API Request Signing,about_platform_api_api_request_signing,false
+PLATFORM::API::App Home,platform_api_app_home,false
+PLATFORM::API::Block Kit,about_platform_api_block_kit,false
+PLATFORM::API::Conversations API,about_platform_api_conversations_api,false
+PLATFORM::API::Dialogs,about_platform_api_dialogs,false
+PLATFORM::API::Discovery API,about_platform_api_discovery_api,false
+PLATFORM::API::Events API,about_platform_api_events_api,false
+PLATFORM::API::Files API,about_platform_api_files_api,false
+PLATFORM::API::Granular Permissions,platform_api_gran_perm,false
+PLATFORM::API::Interactive messages,about_platform_api_interactive_messages,false
+PLATFORM::API::Internal Apps,about_platform_api_internal_apps,false
+PLATFORM::API::Legacy Custom Integrations,about_custom_integrations,false
+PLATFORM::API::Modals,platform_api_modals,false
+"PLATFORM::API::OAuth, Tokens & Scopes",about_platform_api_oauth,false
+PLATFORM::API::Permissions API,about_platform_api_permissions_api,false
+PLATFORM::API::Rate limiting,about_api_rate_limiting,false
+PLATFORM::API::Revoked Tokens – Outbound,about_platform_api_revoked_tokens,false
+PLATFORM::API::RTM API,about_platform_api_rtm_api,false
+PLATFORM::API::Scheduled Messages API,about_platform_api_sched_msgs,false
+PLATFORM::API::SCIM API,about_platform_api_scim_api,false
+PLATFORM::API::SDK,about_platform_api_sdk,false
+PLATFORM::API::Web API,about_platform_api_web_api,false
+PLATFORM::API::Webhooks,about_platform_api_webhooks,false
+PLATFORM::API::WTA,about_workspace_apps,false
+PLATFORM::App Directory::App Directory - Other,about_app_directory,false
+PLATFORM::App Directory::App Review,platform__app_review,false
+PLATFORM::App Directory::Complaints,about_platform_app_directory_complaints,false
+PLATFORM::App Directory::Distribution & Config,about_platform_app_directory_distribution_config,false
+PLATFORM::App Management::Actions,platform_app_management_actions,false
+PLATFORM::App Management::Admin-approved Apps,about_platform_app_management_admin_approved_apps,false
+PLATFORM::App Management::App Configuration,about_platform_app_management_app_configuration,false
+PLATFORM::App Management::App Management,about_platform_app_management_app_managemen,false
+PLATFORM::App Management::App Management - Other,about_platform_app_management_other,false
+PLATFORM::App Management::App Manifests,about_platform_app_management_app_manifests,false
+PLATFORM::App Management::App Permissions,about_platform_app_management_app_permissions,false
+PLATFORM::App Transfer,about_app_transfer,false
+PLATFORM::CLI,about_platform_cli,false
+PLATFORM::Documentation,about_platform_documentation,false
+PLATFORM::Functions,about_platform_functions,false
+PLATFORM::Hosting & Env,about_platform_hosting_env,false
+PLATFORM::Missions,about_platform__missions,false
+PLATFORM::Platform XFN::BizDev,about_platform_platform_xfn_bizdev,false
+PLATFORM::Platform XFN::Developer Relations,about_platform_platform_xfn_developer_relations,false
+PLATFORM::Platform XFN::Marketing,about_platform_platform_xfn_marketing,false
+PLATFORM::Platform XFN::Platform XFN - Other,about_platform_platform_xfn_other,false
+PLATFORM::Platform XFN::Sales Engineering,about_platform_platform_xfn_sales_engineering,false
+PLATFORM::Platform XFN::Slack Fund,about_slack_fund,false
+PLATFORM::Slack-owned apps::Asana (Legacy),about_platform_slack_owned_apps_asana,false
+PLATFORM::Slack-owned apps::BitBucket,about_platform_slack_owned_apps_bitbucket,false
+PLATFORM::Slack-owned apps::Box,about_platform_slack_owned_apps_box,false
+PLATFORM::Slack-owned apps::Dropbox,about_platform_slack_owned_apps_dropbox,false
+PLATFORM::Slack-owned apps::Giphy,about_platform_slack-owned_apps_giphy,false
+PLATFORM::Slack-owned apps::Github Enterprise Server (Legacy),about_platform_slack_owned_apps_github,false
+PLATFORM::Slack-owned apps::Gmail Email Add-on,about_platform_slack-owned_apps_gmail_email_add-on,false
+PLATFORM::Slack-owned apps::Google Calendar,about_platform_slack_owned_apps_google_calendar,false
+PLATFORM::Slack-owned apps::Google Drive,about_platform_slack_owned_apps_google_drive,false
+PLATFORM::Slack-owned apps::Jenkins,about_platform_slack_owned_apps_jenkins,false
+PLATFORM::Slack-owned apps::Jira Server Alerts (Legacy),about_platform_slack_owned_apps_jira_server_alerts,false
+PLATFORM::Slack-owned apps::OneDrive,about_onedrive,false
+PLATFORM::Slack-owned apps::Outlook Calendar,about_platform_slack-owned_apps_outlook_calendar,false
+PLATFORM::Slack-owned apps::Outlook Email Add-on,about_platform_slack-owned_apps_outlook_email_add-on,false
+PLATFORM::Slack-owned apps::RSS,about_platform_slack_owned_apps_rss,false
+PLATFORM::Slack-owned apps::Salesforce,about_platform_slack_owned_apps_salesforce,false
+PLATFORM::Slack-owned apps::Slack Developer Toolkit,about_platform_slack-owned_apps_slack_developer_toolkit,false
+PLATFORM::Slack-owned apps::Slack-owned apps - Other,about_platform_slack_owned_apps_other,false
+PLATFORM::Slack-owned apps::Trello Alerts (Legacy),about_platform_slack_owned_apps_trello_alerts,false
+PLATFORM::Slack-owned apps::Twitter,about_platform_slack_owned_apps_twitter,false
+PLATFORM::Slack-owned apps::Zendesk (Legacy),about_platform_slack_owned_apps_zendesk,false
+PLATFORM::Tables,about_platform_tables,false
+PLATFORM::Third-party app::Asana workspace app,about_platform_third-party_app_asana_workspace_app,false
+PLATFORM::Third-party app::Delist,about_platform_third_party_app_delist,false
+PLATFORM::Third-party app::GitHub workspace app,about_platform_third-party_app_github_workspace_app,false
+PLATFORM::Third-party app::Installation,about_platform_third_party_app_installation,false
+PLATFORM::Third-party app::Jira apps,about_jira_apps,false
+PLATFORM::Third-party app::Published,about_platform_third_party_app_published,false
+PLATFORM::Third-party app::Third-party app - Other,integrations_third_party_app,false
+PLATFORM::Third-party app::Unapproved,about_platform_third_party_app_unapproved,false
+PLATFORM::Third-party app::Zendesk workspace app,about_workspace_zendesk,false
+PLATFORM::Triggers,about_platform_triggers,false
+PLATFORM::Workflow Builder,about_platform_workflow_builder,false
+POLICY:: Terms of Service,about_tos,false
+POLICY::Data Protection (GDPR),about_policy_data_protection,false
+POLICY::Export Request,about_policy_export_request,false
+POLICY::Ownership Transfer,about_ownership_transfer,false
+POLICY::Policy Other,about_policy_other,false
+POLICY::Privacy,about_policy_privacy,false
+POLICY::Profile Deletion,about_policy_profile_deletion,false
+POLICY::Unwanted invite,about_unwanted_invite,false
+PRODUCT FEATURES::Accessibility,about_accessibility,false
+PRODUCT FEATURES::Canvas,about_canvas,false
+PRODUCT FEATURES::Channels/DMs,about_channels_dms,false
+PRODUCT FEATURES::Email Bridge,about_email_bridge,false
+PRODUCT FEATURES::Email Ingestion,about_email_integration,false
+PRODUCT FEATURES::Emoji/Reactions,about_emoji_reactions,false
+PRODUCT FEATURES::Internationalization,about_internationalization,false
+PRODUCT FEATURES::Later,about_later,false
+PRODUCT FEATURES::Message formatting/posting,about_messages_formatting_posting,false
+PRODUCT FEATURES::Message/File Threading,about_messages_threading,false
+PRODUCT FEATURES::Notifications,about_notifications,false
+PRODUCT FEATURES::Notifications - DND,about_dnd,false
+PRODUCT FEATURES::Pinned/Bookmarked,about_pinned_starred,false
+PRODUCT FEATURES::Preferences and Settings,about_preferences_and_settings,false
+PRODUCT FEATURES::Sales Elevate,about_sales_elevate,false
+PRODUCT FEATURES::Search/Autocomplete,about_search,false
+PRODUCT FEATURES::Sidebar,about_sidebar,false
+PRODUCT FEATURES::Slackbot,about_slackbot,false
+PRODUCT FEATURES::Slash Commands/Quick Actions,about_slash_commands_quick_actions,false
+PRODUCT FEATURES::Translation,about_translation,false
+PRODUCT FEATURES::Unfurling,about_messages_unfurling,false
+PRODUCT FEATURES::User Status,about_user_status,false
+PRODUCT FEATURES::Virtual HQ,about_virtual_hq,false
+PURCHASE EXPERIENCE::Charges and Credits::Currency,about_currency,false
+PURCHASE EXPERIENCE::Charges and Credits::Fair Billing,about_fair_billing,false
+PURCHASE EXPERIENCE::Charges and Credits::Refund Request,about_refund_request,false
+PURCHASE EXPERIENCE::Delinquent Payments::Credit Card Failure,about_credit_card_failure,false
+PURCHASE EXPERIENCE::Delinquent Payments::Outbound Collection Attempt,about_outbound_collection_attempt,false
+PURCHASE EXPERIENCE::Delinquent Payments::Past Due Remittance,about_past_due_remittance,false
+PURCHASE EXPERIENCE::Receipts and Invoices::Edit Billing Details,about_edit_billing_details,false
+PURCHASE EXPERIENCE::Receipts and Invoices::Invoice Copies,about_invoice_copies,false
+PURCHASE EXPERIENCE::Receipts and Invoices::Invoice Rejection,about_invoice_rejection,false
+PURCHASE EXPERIENCE::Receipts and Invoices::Payment Remittance,about_payment_remittance,false
+PURCHASE EXPERIENCE::Receipts and Invoices::Portal Requests,about_portal_requests,false
+PURCHASE EXPERIENCE::Receipts and Invoices::Statement of Account,about_statement_of_account,false
+PURCHASE EXPERIENCE::Subscription Change::Billing Frequency,about_billing_frequency,false
+PURCHASE EXPERIENCE::Subscription Change::Payment Method Change,about_payment_method_change,false
+PURCHASE EXPERIENCE::Subscription Change::Plan Switch,about_plan_switch,false
+PURCHASE EXPERIENCE::Tax::Tax Documentation Request,about_tax_documentation_request,false
+PURCHASE EXPERIENCE::Tax::Tax Exemption,about_tax_exemption,false
+PURCHASE EXPERIENCE::Tax::Withholding Tax,about_withholding_tax,false
+PURCHASE EXPERIENCE::Vendor Information,about_vendor_information,false
+SECURITY::Data Security Practices,about_security_data_practices,false
+SECURITY::Fraud/Phishing,about_security_fraud,false
+SECURITY::Security Other,about_security_other,false
+SECURITY::Security Questionnaire,about_security_questionnaire,false
+SECURITY::SOC 2,about_security_soc_2,false
+SECURITY::Unauthorized access,about_security_unauthorized,false
+CLIENT CAPABILITIES::Native OS Elements,about_native_os_elements,false

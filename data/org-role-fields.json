@@ -1,0 +1,10 @@
+{
+  "custom_field_options": [
+    { "id": 360002539971, "name": "Primary Owner", "raw_name": "Primary Owner", "value": "org_role_po", "default": false },
+    { "id": 360002531351, "name": "Owner", "raw_name": "Owner", "value": "org_role_owner", "default": false },
+    { "id": 360002531371, "name": "Admin", "raw_name": "Admin", "value": "org_role_admin", "default": false },
+    { "id": 360002531391, "name": "Member", "raw_name": "Member", "value": "org_role_member", "default": false },
+    { "id": 360002541431, "name": "Multi-Channel Guest", "raw_name": "Multi-Channel Guest", "value": "org_role_mcg", "default": false },
+    { "id": 360002541451, "name": "Single Channel Guest", "raw_name": "Single Channel Guest", "value": "org_role_scg", "default": false }
+  ]
+}

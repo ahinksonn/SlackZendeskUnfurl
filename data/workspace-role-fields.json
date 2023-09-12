@@ -1,0 +1,46 @@
+{
+  "workspace_field_options": [
+    {
+      "id": 360002514832,
+      "name": "Primary Owner",
+      "raw_name": "Primary Owner",
+      "value": "ws_role_po",
+      "default": false
+    },
+    {
+      "id": 360002504012,
+      "name": "Owner",
+      "raw_name": "Owner",
+      "value": "ws_role_owner",
+      "default": false
+    },
+    {
+      "id": 360002504032,
+      "name": "Admin",
+      "raw_name": "Admin",
+      "value": "ws_role_admin",
+      "default": false
+    },
+    {
+      "id": 360002504052,
+      "name": "Member",
+      "raw_name": "Member",
+      "value": "ws_role_member",
+      "default": false
+    },
+    {
+      "id": 360002514852,
+      "name": "Multi-Channel Guest",
+      "raw_name": "Multi-Channel Guest",
+      "value": "ws_role_mcg",
+      "default": false
+    },
+    {
+      "id": 360002514872,
+      "name": "Single-Channel Guest",
+      "raw_name": "Single-Channel Guest",
+      "value": "ws_role_scg",
+      "default": false
+    }
+  ]
+}

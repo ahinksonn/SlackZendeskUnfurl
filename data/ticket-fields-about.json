@@ -1,0 +1,1072 @@
+[
+  {
+    "value": "ACCESS::App performance (memory, slowness, etc)",
+    "tag": "about_app_performance",
+    "default": "false"
+  },
+  {
+    "value": "ACCESS::Client Deprecation",
+    "tag": "about_client_deprecation",
+    "default": "false"
+  },
+  {
+    "value": "ACCESS::Client Installation",
+    "tag": "about_client_installation",
+    "default": "false"
+  },
+  {
+    "value": "ACCESS::Connectivity",
+    "tag": "about_connectivity",
+    "default": "false"
+  },
+  {
+    "value": "ACCESS::Crash",
+    "tag": "about_crash",
+    "default": "false"
+  },
+  {
+    "value": "ACCESS::Distributed Installations",
+    "tag": "about_distributed_installations",
+    "default": "false"
+  },
+  {
+    "value": "ADMIN:: Managing Channels",
+    "tag": "about_managing_channels",
+    "default": "false"
+  },
+  {
+    "value": "ADMIN::Admin APIs",
+    "tag": "platform_api_admin_api",
+    "default": "false"
+  },
+  {
+    "value": "ADMIN::Analytics",
+    "tag": "about_admin_statistics",
+    "default": "false"
+  },
+  {
+    "value": "ADMIN::Compliance",
+    "tag": "about_compliance",
+    "default": "false"
+  },
+  {
+    "value": "ADMIN::Custom Profile Fields",
+    "tag": "about_customprofile",
+    "default": "false"
+  },
+  {
+    "value": "ADMIN::Data Exports",
+    "tag": "about_admin_troubleshooting_exports",
+    "default": "false"
+  },
+  {
+    "value": "ADMIN::Data Imports",
+    "tag": "about_admin_data_imports",
+    "default": "false"
+  },
+  {
+    "value": "ADMIN::Data Retention",
+    "tag": "about_data_retention",
+    "default": "false"
+  },
+  {
+    "value": "ADMIN::Discoverable Workspaces",
+    "tag": "about_enterprise_discoverable_workspaces",
+    "default": "false"
+  },
+  {
+    "value": "ADMIN::DLP and eDiscovery API",
+    "tag": "about_admin_dlp_and_ediscovery",
+    "default": "false"
+  },
+  {
+    "value": "ADMIN::Enterprise Key Management (EKM)",
+    "tag": "about_ekm",
+    "default": "false"
+  },
+  {
+    "value": "ADMIN::Grid Email Domain Claiming",
+    "tag": "about_enterprise_domain_claiming",
+    "default": "false"
+  },
+  {
+    "value": "ADMIN::Grid Multi-Workspace Channels",
+    "tag": "about_enterprise_shared_channels",
+    "default": "false"
+  },
+  {
+    "value": "ADMIN::Grid Org Management",
+    "tag": "about_enterprise_org_dashboard",
+    "default": "false"
+  },
+  {
+    "value": "ADMIN::Guest Accounts",
+    "tag": "about_restricted_accounts",
+    "default": "false"
+  },
+  {
+    "value": "ADMIN::International Data Residency (IDR)",
+    "tag": "about_int_data_residency",
+    "default": "false"
+  },
+  {
+    "value": "ADMIN::Managing Team Members",
+    "tag": "about_managing_team_members",
+    "default": "false"
+  },
+  {
+    "value": "ADMIN::Mobile Security",
+    "tag": "about_enterprise_mobile_security",
+    "default": "false"
+  },
+  {
+    "value": "ADMIN::Moving channels",
+    "tag": "about_moving_channels",
+    "default": "false"
+  },
+  {
+    "value": "ADMIN::RCA Request",
+    "tag": "about_rca_request",
+    "default": "false"
+  },
+  {
+    "value": "ADMIN::Slack Connect",
+    "tag": "about_shared_channels_cross_team_dms",
+    "default": "false"
+  },
+  {
+    "value": "ADMIN::User Groups",
+    "tag": "about_usergroups",
+    "default": "false"
+  },
+  {
+    "value": "ADMIN::Workspace Settings and Permissions",
+    "tag": "about_team_settings_and_permissions",
+    "default": "false"
+  },
+  {
+    "value": "ADMIN::Workspace URL Request",
+    "tag": "about_domain_request",
+    "default": "false"
+  },
+  {
+    "value": "EVALUATORS::Atlas purchase request",
+    "tag": "about_rimeto",
+    "default": "false"
+  },
+  {
+    "value": "EVALUATORS::Compliance & HIPAA",
+    "tag": "about_compliance_hipaa",
+    "default": "false"
+  },
+  {
+    "value": "EVALUATORS::Discounts",
+    "tag": "about_discount_requests",
+    "default": "false"
+  },
+  {
+    "value": "EVALUATORS::Education",
+    "tag": "about_education_only",
+    "default": "false"
+  },
+  {
+    "value": "EVALUATORS::Free plan users",
+    "tag": "about_free_plan_users",
+    "default": "false"
+  },
+  {
+    "value": "EVALUATORS::Nonprofits",
+    "tag": "about_nonprofits_only",
+    "default": "false"
+  },
+  {
+    "value": "EVALUATORS::Plan Advice",
+    "tag": "about_plan_advice",
+    "default": "false"
+  },
+  {
+    "value": "EVALUATORS::Reseller/Partnership",
+    "tag": "about_reseller_partnership",
+    "default": "false"
+  },
+  {
+    "value": "EVALUATORS::Resources, Training and Advocacy Requests",
+    "tag": "about_resource_training_request",
+    "default": "false"
+  },
+  {
+    "value": "EVALUATORS::Trials",
+    "tag": "about_trial_requests",
+    "default": "false"
+  },
+  {
+    "value": "EVALUATORS::Understanding Costs",
+    "tag": "about_understanding_costs",
+    "default": "false"
+  },
+  {
+    "value": "EVALUATORS::What is Slack?",
+    "tag": "about_what_is_slack",
+    "default": "false"
+  },
+  {
+    "value": "FILES::Audio/Video Clips",
+    "tag": "about_audio_video_clips",
+    "default": "false"
+  },
+  {
+    "value": "FILES::Files",
+    "tag": "about_files",
+    "default": "false"
+  },
+  {
+    "value": "FILES::Posts",
+    "tag": "about_posts",
+    "default": "false"
+  },
+  {
+    "value": "FILES::Snippets",
+    "tag": "about_snippets",
+    "default": "false"
+  },
+  {
+    "value": "IDENTITY::Atlas",
+    "tag": "about_atlas",
+    "default": "false"
+  },
+  {
+    "value": "IDENTITY::Audit Log API",
+    "tag": "about_platform_api_audit_log_api",
+    "default": "false"
+  },
+  {
+    "value": "IDENTITY::Configuring or Switching SSO",
+    "tag": "about_sso_config",
+    "default": "false"
+  },
+  {
+    "value": "IDENTITY::Custom SCIM Attributes",
+    "tag": "about_scim_attributes",
+    "default": "false"
+  },
+  {
+    "value": "IDENTITY::Google Auth",
+    "tag": "about_google_auth",
+    "default": "false"
+  },
+  {
+    "value": "IDENTITY::Profile Syncing & Rebinding",
+    "tag": "about_syncing",
+    "default": "false"
+  },
+  {
+    "value": "IDENTITY::Provisioning Users & Groups",
+    "tag": "about_provisioning_users",
+    "default": "false"
+  },
+  {
+    "value": "IDENTITY::SSO Preferences & Settings",
+    "tag": "about_sso_prefs",
+    "default": "false"
+  },
+  {
+    "value": "IDENTITY::SSO Sign-in",
+    "tag": "about_sso_login",
+    "default": "false"
+  },
+  {
+    "value": "IDENTITY::Workspace Migration",
+    "tag": "about_enterprise_team_migration",
+    "default": "false"
+  },
+  {
+    "value": "LOGIN::2FA",
+    "tag": "about_2fa",
+    "default": "false"
+  },
+  {
+    "value": "LOGIN::Accidental workspace creation",
+    "tag": "about_accidental_team",
+    "default": "false"
+  },
+  {
+    "value": "LOGIN::Credentials",
+    "tag": "about_credentials",
+    "default": "false"
+  },
+  {
+    "value": "LOGIN::Email delivery",
+    "tag": "about_bouncing",
+    "default": "false"
+  },
+  {
+    "value": "LOGIN::Invitations ",
+    "tag": "about_invitations",
+    "default": "false"
+  },
+  {
+    "value": "LOGIN::Invite limit",
+    "tag": "invite_limit",
+    "default": "false"
+  },
+  {
+    "value": "LOGIN::Joining a workspace",
+    "tag": "about_joining_a_team",
+    "default": "false"
+  },
+  {
+    "value": "LOGIN::Login UI/UX",
+    "tag": "about_login_ui_ux",
+    "default": "false"
+  },
+  {
+    "value": "LOGIN::Workspace Creation",
+    "tag": "about_workspace_creation",
+    "default": "false"
+  },
+  {
+    "value": "MARKETING::Marketing/PR/Ads",
+    "tag": "about_marketing_pr_ads",
+    "default": "false"
+  },
+  {
+    "value": "MARKETING::Slack Certification",
+    "tag": "about_slack_certification",
+    "default": "false"
+  },
+  {
+    "value": "MARKETING::Slack Foundry",
+    "tag": "about_slacku",
+    "default": "false"
+  },
+  {
+    "value": "MARKETING::Swag ",
+    "tag": "about_swag",
+    "default": "false"
+  },
+  {
+    "value": "OTHER::Miscellaneous",
+    "tag": "about_miscellaneous",
+    "default": "false"
+  },
+  {
+    "value": "OTHER::Not intended for Slack",
+    "tag": "about_not_intended_for_slack",
+    "default": "false"
+  },
+  {
+    "value": "OTHER::Spam or bot-generated ticket",
+    "tag": "spam",
+    "default": "false"
+  },
+  {
+    "value": "OTHER::User solved it before About was selected",
+    "tag": "about_unspecified",
+    "default": "false"
+  },
+  {
+    "value": "PAGE POLICY::Policy (pages Policy team)",
+    "tag": "escalation_policy",
+    "default": "false"
+  },
+  {
+    "value": "PAGE POLICY::Possible Data Breach (pages Policy team)",
+    "tag": "escalation_data_breach",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::API - Other",
+    "tag": "about_api",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::API Message Formatting",
+    "tag": "about_api_message_formatting",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::API Request Signing",
+    "tag": "about_platform_api_api_request_signing",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::App Home",
+    "tag": "platform_api_app_home",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::Block Kit",
+    "tag": "about_platform_api_block_kit",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::Conversations API",
+    "tag": "about_platform_api_conversations_api",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::Dialogs",
+    "tag": "about_platform_api_dialogs",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::Discovery API",
+    "tag": "about_platform_api_discovery_api",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::Events API",
+    "tag": "about_platform_api_events_api",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::Files API",
+    "tag": "about_platform_api_files_api",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::Granular Permissions",
+    "tag": "platform_api_gran_perm",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::Interactive messages",
+    "tag": "about_platform_api_interactive_messages",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::Internal Apps",
+    "tag": "about_platform_api_internal_apps",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::Legacy Custom Integrations",
+    "tag": "about_custom_integrations",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::Modals",
+    "tag": "platform_api_modals",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::OAuth, Tokens & Scopes",
+    "tag": "about_platform_api_oauth",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::Permissions API",
+    "tag": "about_platform_api_permissions_api",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::Rate limiting",
+    "tag": "about_api_rate_limiting",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::Revoked Tokens – Outbound",
+    "tag": "about_platform_api_revoked_tokens",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::RTM API",
+    "tag": "about_platform_api_rtm_api",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::Scheduled Messages API",
+    "tag": "about_platform_api_sched_msgs",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::SCIM API",
+    "tag": "about_platform_api_scim_api",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::SDK",
+    "tag": "about_platform_api_sdk",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::Web API",
+    "tag": "about_platform_api_web_api",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::Webhooks",
+    "tag": "about_platform_api_webhooks",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::API::WTA",
+    "tag": "about_workspace_apps",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::App Directory::App Directory - Other",
+    "tag": "about_app_directory",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::App Directory::App Review",
+    "tag": "platform__app_review",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::App Directory::Complaints",
+    "tag": "about_platform_app_directory_complaints",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::App Directory::Distribution & Config",
+    "tag": "about_platform_app_directory_distribution_config",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::App Management::Actions",
+    "tag": "platform_app_management_actions",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::App Management::Admin-approved Apps",
+    "tag": "about_platform_app_management_admin_approved_apps",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::App Management::App Configuration",
+    "tag": "about_platform_app_management_app_configuration",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::App Management::App Management",
+    "tag": "about_platform_app_management_app_managemen",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::App Management::App Management - Other",
+    "tag": "about_platform_app_management_other",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::App Management::App Manifests",
+    "tag": "about_platform_app_management_app_manifests",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::App Management::App Permissions",
+    "tag": "about_platform_app_management_app_permissions",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::App Transfer",
+    "tag": "about_app_transfer",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::CLI",
+    "tag": "about_platform_cli",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Documentation",
+    "tag": "about_platform_documentation",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Functions",
+    "tag": "about_platform_functions",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Hosting & Env",
+    "tag": "about_platform_hosting_env",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Missions",
+    "tag": "about_platform__missions",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Platform XFN::BizDev",
+    "tag": "about_platform_platform_xfn_bizdev",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Platform XFN::Developer Relations",
+    "tag": "about_platform_platform_xfn_developer_relations",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Platform XFN::Marketing",
+    "tag": "about_platform_platform_xfn_marketing",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Platform XFN::Platform XFN - Other",
+    "tag": "about_platform_platform_xfn_other",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Platform XFN::Sales Engineering",
+    "tag": "about_platform_platform_xfn_sales_engineering",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Platform XFN::Slack Fund",
+    "tag": "about_slack_fund",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Slack-owned apps::Asana (Legacy)",
+    "tag": "about_platform_slack_owned_apps_asana",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Slack-owned apps::BitBucket",
+    "tag": "about_platform_slack_owned_apps_bitbucket",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Slack-owned apps::Box",
+    "tag": "about_platform_slack_owned_apps_box",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Slack-owned apps::Dropbox",
+    "tag": "about_platform_slack_owned_apps_dropbox",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Slack-owned apps::Giphy",
+    "tag": "about_platform_slack-owned_apps_giphy",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Slack-owned apps::Github Enterprise Server (Legacy)",
+    "tag": "about_platform_slack_owned_apps_github",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Slack-owned apps::Gmail Email Add-on",
+    "tag": "about_platform_slack-owned_apps_gmail_email_add-on",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Slack-owned apps::Google Calendar",
+    "tag": "about_platform_slack_owned_apps_google_calendar",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Slack-owned apps::Google Drive",
+    "tag": "about_platform_slack_owned_apps_google_drive",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Slack-owned apps::Jenkins",
+    "tag": "about_platform_slack_owned_apps_jenkins",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Slack-owned apps::Jira Server Alerts (Legacy)",
+    "tag": "about_platform_slack_owned_apps_jira_server_alerts",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Slack-owned apps::OneDrive",
+    "tag": "about_onedrive",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Slack-owned apps::Outlook Calendar",
+    "tag": "about_platform_slack-owned_apps_outlook_calendar",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Slack-owned apps::Outlook Email Add-on",
+    "tag": "about_platform_slack-owned_apps_outlook_email_add-on",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Slack-owned apps::RSS",
+    "tag": "about_platform_slack_owned_apps_rss",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Slack-owned apps::Salesforce",
+    "tag": "about_platform_slack_owned_apps_salesforce",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Slack-owned apps::Slack Developer Toolkit",
+    "tag": "about_platform_slack-owned_apps_slack_developer_toolkit",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Slack-owned apps::Slack-owned apps - Other",
+    "tag": "about_platform_slack_owned_apps_other",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Slack-owned apps::Trello Alerts (Legacy)",
+    "tag": "about_platform_slack_owned_apps_trello_alerts",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Slack-owned apps::Twitter",
+    "tag": "about_platform_slack_owned_apps_twitter",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Slack-owned apps::Zendesk (Legacy)",
+    "tag": "about_platform_slack_owned_apps_zendesk",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Tables",
+    "tag": "about_platform_tables",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Third-party app::Asana workspace app",
+    "tag": "about_platform_third-party_app_asana_workspace_app",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Third-party app::Delist",
+    "tag": "about_platform_third_party_app_delist",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Third-party app::GitHub workspace app",
+    "tag": "about_platform_third-party_app_github_workspace_app",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Third-party app::Installation",
+    "tag": "about_platform_third_party_app_installation",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Third-party app::Jira apps",
+    "tag": "about_jira_apps",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Third-party app::Published",
+    "tag": "about_platform_third_party_app_published",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Third-party app::Third-party app - Other",
+    "tag": "integrations_third_party_app",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Third-party app::Unapproved",
+    "tag": "about_platform_third_party_app_unapproved",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Third-party app::Zendesk workspace app",
+    "tag": "about_workspace_zendesk",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Triggers",
+    "tag": "about_platform_triggers",
+    "default": "false"
+  },
+  {
+    "value": "PLATFORM::Workflow Builder",
+    "tag": "about_platform_workflow_builder",
+    "default": "false"
+  },
+  {
+    "value": "POLICY:: Terms of Service",
+    "tag": "about_tos",
+    "default": "false"
+  },
+  {
+    "value": "POLICY::Data Protection (GDPR)",
+    "tag": "about_policy_data_protection",
+    "default": "false"
+  },
+  {
+    "value": "POLICY::Export Request",
+    "tag": "about_policy_export_request",
+    "default": "false"
+  },
+  {
+    "value": "POLICY::Ownership Transfer",
+    "tag": "about_ownership_transfer",
+    "default": "false"
+  },
+  {
+    "value": "POLICY::Policy Other",
+    "tag": "about_policy_other",
+    "default": "false"
+  },
+  {
+    "value": "POLICY::Privacy",
+    "tag": "about_policy_privacy",
+    "default": "false"
+  },
+  {
+    "value": "POLICY::Profile Deletion",
+    "tag": "about_policy_profile_deletion",
+    "default": "false"
+  },
+  {
+    "value": "POLICY::Unwanted invite",
+    "tag": "about_unwanted_invite",
+    "default": "false"
+  },
+  {
+    "value": "PRODUCT FEATURES::Accessibility",
+    "tag": "about_accessibility",
+    "default": "false"
+  },
+  {
+    "value": "PRODUCT FEATURES::Canvas",
+    "tag": "about_canvas",
+    "default": "false"
+  },
+  {
+    "value": "PRODUCT FEATURES::Channels/DMs",
+    "tag": "about_channels_dms",
+    "default": "false"
+  },
+  {
+    "value": "PRODUCT FEATURES::Email Bridge",
+    "tag": "about_email_bridge",
+    "default": "false"
+  },
+  {
+    "value": "PRODUCT FEATURES::Email Ingestion",
+    "tag": "about_email_integration",
+    "default": "false"
+  },
+  {
+    "value": "PRODUCT FEATURES::Emoji/Reactions",
+    "tag": "about_emoji_reactions",
+    "default": "false"
+  },
+  {
+    "value": "PRODUCT FEATURES::Internationalization",
+    "tag": "about_internationalization",
+    "default": "false"
+  },
+  {
+    "value": "PRODUCT FEATURES::Later",
+    "tag": "about_later",
+    "default": "false"
+  },
+  {
+    "value": "PRODUCT FEATURES::Message formatting/posting",
+    "tag": "about_messages_formatting_posting",
+    "default": "false"
+  },
+  {
+    "value": "PRODUCT FEATURES::Message/File Threading",
+    "tag": "about_messages_threading",
+    "default": "false"
+  },
+  {
+    "value": "PRODUCT FEATURES::Notifications",
+    "tag": "about_notifications",
+    "default": "false"
+  },
+  {
+    "value": "PRODUCT FEATURES::Notifications - DND",
+    "tag": "about_dnd",
+    "default": "false"
+  },
+  {
+    "value": "PRODUCT FEATURES::Pinned/Bookmarked",
+    "tag": "about_pinned_starred",
+    "default": "false"
+  },
+  {
+    "value": "PRODUCT FEATURES::Preferences and Settings",
+    "tag": "about_preferences_and_settings",
+    "default": "false"
+  },
+  {
+    "value": "PRODUCT FEATURES::Sales Elevate",
+    "tag": "about_sales_elevate",
+    "default": "false"
+  },
+  {
+    "value": "PRODUCT FEATURES::Search/Autocomplete",
+    "tag": "about_search",
+    "default": "false"
+  },
+  {
+    "value": "PRODUCT FEATURES::Sidebar",
+    "tag": "about_sidebar",
+    "default": "false"
+  },
+  {
+    "value": "PRODUCT FEATURES::Slackbot",
+    "tag": "about_slackbot",
+    "default": "false"
+  },
+  {
+    "value": "PRODUCT FEATURES::Slash Commands/Quick Actions",
+    "tag": "about_slash_commands_quick_actions",
+    "default": "false"
+  },
+  {
+    "value": "PRODUCT FEATURES::Translation",
+    "tag": "about_translation",
+    "default": "false"
+  },
+  {
+    "value": "PRODUCT FEATURES::Unfurling",
+    "tag": "about_messages_unfurling",
+    "default": "false"
+  },
+  {
+    "value": "PRODUCT FEATURES::User Status",
+    "tag": "about_user_status",
+    "default": "false"
+  },
+  {
+    "value": "PRODUCT FEATURES::Virtual HQ",
+    "tag": "about_virtual_hq",
+    "default": "false"
+  },
+  {
+    "value": "PURCHASE EXPERIENCE::Charges and Credits::Currency",
+    "tag": "about_currency",
+    "default": "false"
+  },
+  {
+    "value": "PURCHASE EXPERIENCE::Charges and Credits::Fair Billing",
+    "tag": "about_fair_billing",
+    "default": "false"
+  },
+  {
+    "value": "PURCHASE EXPERIENCE::Charges and Credits::Refund Request",
+    "tag": "about_refund_request",
+    "default": "false"
+  },
+  {
+    "value": "PURCHASE EXPERIENCE::Delinquent Payments::Credit Card Failure",
+    "tag": "about_credit_card_failure",
+    "default": "false"
+  },
+  {
+    "value": "PURCHASE EXPERIENCE::Delinquent Payments::Outbound Collection Attempt",
+    "tag": "about_outbound_collection_attempt",
+    "default": "false"
+  },
+  {
+    "value": "PURCHASE EXPERIENCE::Delinquent Payments::Past Due Remittance",
+    "tag": "about_past_due_remittance",
+    "default": "false"
+  },
+  {
+    "value": "PURCHASE EXPERIENCE::Receipts and Invoices::Edit Billing Details",
+    "tag": "about_edit_billing_details",
+    "default": "false"
+  },
+  {
+    "value": "PURCHASE EXPERIENCE::Receipts and Invoices::Invoice Copies",
+    "tag": "about_invoice_copies",
+    "default": "false"
+  },
+  {
+    "value": "PURCHASE EXPERIENCE::Receipts and Invoices::Invoice Rejection",
+    "tag": "about_invoice_rejection",
+    "default": "false"
+  },
+  {
+    "value": "PURCHASE EXPERIENCE::Receipts and Invoices::Payment Remittance",
+    "tag": "about_payment_remittance",
+    "default": "false"
+  },
+  {
+    "value": "PURCHASE EXPERIENCE::Receipts and Invoices::Portal Requests",
+    "tag": "about_portal_requests",
+    "default": "false"
+  },
+  {
+    "value": "PURCHASE EXPERIENCE::Receipts and Invoices::Statement of Account",
+    "tag": "about_statement_of_account",
+    "default": "false"
+  },
+  {
+    "value": "PURCHASE EXPERIENCE::Subscription Change::Billing Frequency",
+    "tag": "about_billing_frequency",
+    "default": "false"
+  },
+  {
+    "value": "PURCHASE EXPERIENCE::Subscription Change::Payment Method Change",
+    "tag": "about_payment_method_change",
+    "default": "false"
+  },
+  {
+    "value": "PURCHASE EXPERIENCE::Subscription Change::Plan Switch",
+    "tag": "about_plan_switch",
+    "default": "false"
+  },
+  {
+    "value": "PURCHASE EXPERIENCE::Tax::Tax Documentation Request",
+    "tag": "about_tax_documentation_request",
+    "default": "false"
+  },
+  {
+    "value": "PURCHASE EXPERIENCE::Tax::Tax Exemption",
+    "tag": "about_tax_exemption",
+    "default": "false"
+  },
+  {
+    "value": "PURCHASE EXPERIENCE::Tax::Withholding Tax",
+    "tag": "about_withholding_tax",
+    "default": "false"
+  },
+  {
+    "value": "PURCHASE EXPERIENCE::Vendor Information",
+    "tag": "about_vendor_information",
+    "default": "false"
+  },
+  {
+    "value": "SECURITY::Data Security Practices",
+    "tag": "about_security_data_practices",
+    "default": "false"
+  },
+  {
+    "value": "SECURITY::Fraud/Phishing",
+    "tag": "about_security_fraud",
+    "default": "false"
+  },
+  {
+    "value": "SECURITY::Security Other",
+    "tag": "about_security_other",
+    "default": "false"
+  },
+  {
+    "value": "SECURITY::Security Questionnaire",
+    "tag": "about_security_questionnaire",
+    "default": "false"
+  },
+  {
+    "value": "SECURITY::SOC 2",
+    "tag": "about_security_soc_2",
+    "default": "false"
+  },
+  {
+    "value": "SECURITY::Unauthorized access",
+    "tag": "about_security_unauthorized",
+    "default": "false"
+  },
+  {
+    "value": "CLIENT CAPABILITIES::Native OS Elements",
+    "tag": "about_native_os_elements",
+    "default": "false"
+  }
+]

@@ -6,25 +6,33 @@ const { getWorkspaceRoleName, getOrgRoleName, getFormattedUserRole } = require("
 const bot_token = process.env.BOT_TOKEN;
 
 async function unfurl(zendeskData, slackData) {
-  const ticketFields = await getTicketFields(zendeskData);
-  const unfurlPayload = constructUnfurlPayload(zendeskData, slackData, ticketFields);
-  const heads = {
-    headers: { Authorization: "Bearer " + bot_token },
-  };
-  axios
-    .post("https://slack.com/api/chat.unfurl", unfurlPayload, heads)
-    .then(function (response) {
-      if (response.data.ok === false) {
-        console.log("API ERROR!");
-      } else {
-        console.log("SUCCESS!");
-      }
-      console.log(response.data);
-    })
-    .catch(function (error) {
-      console.log("HTTP ERROR!");
-      console.log(error);
-    });
+  // Define your channel_id array
+  const channelIdArray = ['C030HN5ES8Z', 'C030HN60DS5']; // Channel IDs
+  
+  // Check if the channelID is part of the channelIdArray
+  if(channelIdArray.includes(slackData.channel)) {
+    const ticketFields = await getTicketFields(zendeskData);
+    const unfurlPayload = constructUnfurlPayload(zendeskData, slackData, ticketFields);
+    const heads = {
+      headers: { Authorization: "Bearer " + bot_token },
+    };
+    axios
+      .post("https://slack.com/api/chat.unfurl", unfurlPayload, heads)
+      .then(function (response) {
+        if (response.data.ok === false) {
+          console.log("API ERROR!");
+        } else {
+          console.log("SUCCESS!");
+        }
+        console.log(response.data);
+      })
+      .catch(function (error) {
+        console.log("HTTP ERROR!");
+        console.log(error);
+      });
+  } else {
+    console.log(`Channel ID ${slackData.channel} is not in the allowed list.`);
+  }
 }
 
 async function getTicketFields(zendeskData) {
